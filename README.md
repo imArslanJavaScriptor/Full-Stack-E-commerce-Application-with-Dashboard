@@ -4,10 +4,6 @@
 A production‑ready <strong>Full‑Stack E‑Commerce Application</strong> built with the <strong>MERN Stack</strong>, featuring authentication, product management, cart functionality, and a complete checkout flow.
 </p>
 
-<p align="center">
-  <img src="/frontend/public/screenshot-for-readme.png" alt="App Screenshot" />
-</p>
-
 ---
 
 ## 🚀 Overview
